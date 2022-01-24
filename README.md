@@ -14,7 +14,7 @@ The project was done on C program that can handle the registration of COVID-19 p
 
 • Admission date
 
-##There should be options to
+There should be options to
 
 • Add new patients
 
