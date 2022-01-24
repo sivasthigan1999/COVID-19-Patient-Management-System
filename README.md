@@ -2,7 +2,7 @@
 
 The project was done on C program that can handle the registration of COVID-19 patients in a hospital ward. 
 
-The system should record critical data of each patient such as,
+##The system should record critical data of each patient such as,
 
 • NIC number
 
